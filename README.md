@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aravindasagar
-- 👀 I’m interested in Web and mobile app full-stack devlopment, DevOps on AWS
-- 🌱 I’m currently learning React,AWS
-- 💞️ I’m looking to collaborate on full stack devlopment projects and DevOps Projects
+- 👀 I’m interested in Web and mobile app full-stack development, DevOps on AWS
+- 🌱 I’m currently learning MERN Full-stack, AWS, DevOps
+- 💞️ I’m looking to collaborate on full stack development projects and DevOps Projects
 - 📫 To reach me email:aravindasagar1997@gmail.com
 
 <!---
